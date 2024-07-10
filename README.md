@@ -1,6 +1,6 @@
 # My Dev Environment Files 🚀
 
-**IMPORTANT:** These configurations are borrowed almost entirely from @josean-dev. I highly recommend his videos which I've linked below. 
+**IMPORTANT:** These configurations are borrowed almost entirely from [@josean-dev](https://github.com/josean-dev). I highly recommend his videos which I've linked below. 
 
 ## Wezterm Setup
 
