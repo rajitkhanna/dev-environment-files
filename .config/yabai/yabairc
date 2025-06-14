@@ -30,3 +30,8 @@ yabai -m rule --add app="^Raycast$" manage=off
 yabai -m rule --add app="^Arc$" title="^Rajit$" manage=off
 yabai -m rule --add app="^Calculator$" manage=off
 yabai -m rule --add app="^Finder$" manage=off
+yabai -m rule --add app="^Superpowered$" manage=off
+yabai -m rule --add app="^FaceTime$" manage=off
+
+# for sketchybar
+yabai -m config external_bar all:32:0
